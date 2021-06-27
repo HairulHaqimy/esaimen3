@@ -1,0 +1,6 @@
+Year  Month  Total Sales  Total Inventory Cost  Profit  Net Income  
+	
+2012  January  12222  10000.0  2222.0  -17778.0  
+	
+2021  March  109000  10000.0  99000.0  79000.0  
+	

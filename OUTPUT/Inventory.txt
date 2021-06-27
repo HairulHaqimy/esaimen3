@@ -1,0 +1,6 @@
+Category  Item Name  Flavour  Made In  Price  Quantity  
+	
+CAKE  HOKKAIDO CAKE  CHOCOLATE  JAPAN  20  2  
+	
+DONUT  SMILE DONUT  STRAWBERRY  MALAYSIA  12  3  
+	

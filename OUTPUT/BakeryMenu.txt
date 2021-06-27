@@ -1,0 +1,6 @@
+Category  ItemName  Flavour  Made In  Price  Qty  
+	
+CAKE  HOKKAIDO CAKE  CHOCOLATE  JAPAN  20  1  
+	
+PIZZA  HAWAIAN PIZZA  CHEESE  USA  25  2  
+	
